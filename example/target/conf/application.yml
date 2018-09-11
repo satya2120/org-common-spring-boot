@@ -1,0 +1,27 @@
+
+server:
+    port: 8449
+    servlet:
+      context-path: /example
+
+cloud:
+  aws:
+    sqs:
+      credentials:
+        accessKey: test
+        secretKey: test
+      region: ap-northeast-1
+      elasticmq:
+        enabled: true
+    s3:
+      localStackEnabled: true
+      localS3StackUrl: http://localhost:4569
+      clients:
+       -
+        accessKey: foo
+        secretKey: foo
+        region: us-east-1
+        baseUrl: http://localhost:4569
+        bucketName: test
+        maxConnectionPool: 10
+        symmetricKeyPath:

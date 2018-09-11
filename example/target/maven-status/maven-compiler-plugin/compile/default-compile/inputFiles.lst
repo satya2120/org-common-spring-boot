@@ -1,0 +1,8 @@
+/Users/apple/mine/org-common-spring-boot/example/src/main/java/com/ninjacart/example/Application.java
+/Users/apple/mine/org-common-spring-boot/example/src/main/java/com/ninjacart/example/sqs/SqsSampleMessage.java
+/Users/apple/mine/org-common-spring-boot/example/src/main/java/com/ninjacart/example/sqs/Listener.java
+/Users/apple/mine/org-common-spring-boot/example/src/main/java/com/ninjacart/example/controller/ExampleController.java
+/Users/apple/mine/org-common-spring-boot/example/src/main/java/com/ninjacart/example/s3/S3Upload.java
+/Users/apple/mine/org-common-spring-boot/example/src/main/java/com/ninjacart/example/sqs/Publisher.java
+/Users/apple/mine/org-common-spring-boot/example/src/main/java/com/ninjacart/example/controller/ApiResponse.java
+/Users/apple/mine/org-common-spring-boot/example/src/main/java/com/ninjacart/example/sqs/QueueNames.java

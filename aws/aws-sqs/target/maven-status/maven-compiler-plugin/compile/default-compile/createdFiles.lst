@@ -1,0 +1,12 @@
+com/example/aws/sqs/service/QueuePublisher.class
+com/example/consumer/nonblocking/NonBlockingMessageListenerContainer$MappingInformation.class
+com/example/consumer/nonblocking/AbstractMessageListenerContainer$QueueAttributes.class
+com/example/consumer/nonblocking/NonBlockingMessageListenerContainer$SignalExecutingRunnable.class
+com/example/aws/sqs/config/AwsSqsConfig.class
+com/example/consumer/nonblocking/NonBlockingMessageListenerContainer$AsynchronousMessageListener.class
+com/example/consumer/nonblocking/NonBlockingMessageListenerContainer$MessageExecutor.class
+com/example/consumer/nonblocking/AbstractMessageListenerContainer$MappingInformation.class
+com/example/consumer/nonblocking/NonBlockingMessageListenerContainer.class
+com/example/consumer/nonblocking/NonBlockingMessageListenerContainer$1.class
+com/example/consumer/nonblocking/AbstractMessageListenerContainer.class
+com/example/aws/sqs/config/AwsSqsConfig$1.class

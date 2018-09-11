@@ -1,0 +1,4 @@
+/Users/apple/mine/org-common-spring-boot/aws/aws-sqs/src/main/java/com/ninjacart/aws/sqs/service/QueuePublisher.java
+/Users/apple/mine/org-common-spring-boot/aws/aws-sqs/src/main/java/com/ninjacart/consumer/nonblocking/NonBlockingMessageListenerContainer.java
+/Users/apple/mine/org-common-spring-boot/aws/aws-sqs/src/main/java/com/ninjacart/consumer/nonblocking/AbstractMessageListenerContainer.java
+/Users/apple/mine/org-common-spring-boot/aws/aws-sqs/src/main/java/com/ninjacart/aws/sqs/config/AwsSqsConfig.java

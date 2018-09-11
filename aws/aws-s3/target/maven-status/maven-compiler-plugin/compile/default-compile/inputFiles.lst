@@ -1,0 +1,8 @@
+/Users/apple/mine/org-common-spring-boot/aws/aws-s3/src/main/java/com/ninjacart/aws/s3/config/AwsS3ClientBuilder.java
+/Users/apple/mine/org-common-spring-boot/aws/aws-s3/src/main/java/com/ninjacart/aws/s3/config/AwsS3DummyClientProvider.java
+/Users/apple/mine/org-common-spring-boot/aws/aws-s3/src/main/java/com/ninjacart/aws/s3/service/AbstractAwsS3Service.java
+/Users/apple/mine/org-common-spring-boot/aws/aws-s3/src/main/java/com/ninjacart/aws/s3/config/S3Config.java
+/Users/apple/mine/org-common-spring-boot/aws/aws-s3/src/main/java/com/ninjacart/aws/s3/config/AbstractAwsS3ClientProvider.java
+/Users/apple/mine/org-common-spring-boot/aws/aws-s3/src/main/java/com/ninjacart/aws/s3/service/AwsS3Service.java
+/Users/apple/mine/org-common-spring-boot/aws/aws-s3/src/main/java/com/ninjacart/aws/s3/config/AwsS3ClientProvider.java
+/Users/apple/mine/org-common-spring-boot/aws/aws-s3/src/main/java/com/ninjacart/aws/s3/service/AwsS3EncryptionService.java

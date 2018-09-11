@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <mkdir dir="/Users/apple/mine/org-common-spring-boot/example\target\conf"/>
+  <copy todir="/Users/apple/mine/org-common-spring-boot/example\target\conf">
+    <fileset excludes="static/**" dir="/Users/apple/mine/org-common-spring-boot/example\src\main\resources"/>
+  </copy>
+  <zip basedir="/Users/apple/mine/org-common-spring-boot/example/target" excludes="classes/** surefire/** antrun/** maven-archiver/** test-classes/** generated-test-sources/** surefire-reports/** *.zip generated-sources/** maven-success/** maven-status/** *.yml" destfile="/Users/apple/mine/org-common-spring-boot/example/target\examples-1.0.0.zip"/>
+</target>
+</project>

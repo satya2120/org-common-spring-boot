@@ -1,0 +1,32 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.example</groupId>
+		<artifactId>aws</artifactId>
+		<version>1.0</version>
+	</parent>
+	<artifactId>aws-sqs</artifactId>
+	<version>1.0.0</version>
+	<name>AWS SQS Apis</name>
+	<description>AWS SQS Apis</description>
+	<properties>
+		<amazon-sqs-java-messaging-lib.version>1.0.3</amazon-sqs-java-messaging-lib.version>
+		<elasticmq.version>0.13.8</elasticmq.version>
+	</properties>
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-aws-messaging</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.amazonaws</groupId>
+			<artifactId>amazon-sqs-java-messaging-lib</artifactId>
+			<version>${amazon-sqs-java-messaging-lib.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-jms</artifactId>
+		</dependency>
+	</dependencies>
+</project>
